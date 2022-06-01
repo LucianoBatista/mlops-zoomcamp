@@ -11,6 +11,9 @@ matplotlib = "*"
 numpy = "*"
 pyarrow = "*"
 black = "*"
+mlflow = "*"
+hyperopt = "*"
+xgboost = "*"
 
 [dev-packages]
 ipykernel = "*"
